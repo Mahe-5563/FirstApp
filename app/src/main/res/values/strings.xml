@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Microsoft</string>
+
+    <string-array name="Windows">
+
+        <item>Microsoft Windows, or simply Windows, is a metafamily of graphical operating systems developed, marketed, and sold by Microsoft. It consists of several families of operating systems, each of which cater to a certain sector of the computing industry with the OS typically associated with IBM PC compatible architecture. Active Windows families include Windows NT and Windows Embedded; these may encompass subfamilies, e.g. Windows Embedded Compact (Windows CE) or Windows Server. Defunct Windows families include Windows 9x, Windows Mobile and Windows Phone.</item>
+        <item>Microsoft Office is an office suite of applications, servers, and services developed by Microsoft. It was first announced by Bill Gates on 1 August 1988, at COMDEX in Las Vegas. Initially a marketing term for a bundled set of applications, the first version of Office contained Microsoft Word, Microsoft Excel, and Microsoft PowerPoint. Over the years, Office applications have grown substantially closer with shared features such as a common spell checker, OLE data integration and Visual Basic for Applications scripting language. Microsoft also positions Office as a development platform for line-of-business software under the Office Business Applications brand. On 10 July 2012, Softpedia reported that Office is used by over a billion people worldwide.</item>
+        <item>The first version of Exchange Server to be published by Microsoft was Exchange Server 4.0. Exchange initially used the X.400 directory service but switched to Active Directory later. Versions 4.0 and 5.0 came bundled with an email client called Microsoft Exchange Client. It was discontinued in favor of Microsoft Outlook.</item>
+        <item>SharePoint is a web-based, collaborative platform that integrates with Microsoft Office. Launched in 2001, SharePoint is primarily sold as a document management and storage system, but the product is highly configurable and usage varies substantially between organizations.</item>
+        <item>Microsoft SQL Server is a relational database management system developed by Microsoft. As a database server, it is a software product with the primary function of storing and retrieving data as requested by other software applications—which may run either on the same computer or on another computer across a network (including the Internet).</item>
+        <item>Windows Server is a brand name for a group of server operating systems released by Microsoft. It includes all Windows operating systems branded "Windows Server", but not any other Microsoft product. The first Windows server edition to be released under that brand was Windows Server 2003. However, the first server edition of Windows was Windows NT 3.1 Advanced Server, followed by Windows NT 3.5 Server, Windows NT 4.0 Server, and Windows 2000 Server; the latter was the first server edition to include Active Directory, DNS Server, DHCP Server, Group Policy, as well as many other popular features used today.</item>
+        <item>Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web apps, web services and mobile apps. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.</item>
+        <item>Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations respectively. The brand also represents applications (games), streaming services, and an online service by the name of Xbox Live. The brand was first introduced on November 15, 2001 in the United States, with the launch of the original Xbox console.</item>
+        <item>Bing is a web search engine owned and operated by Microsoft. The service has its origins in Microsoft\'s previous search engines: MSN Search, Windows Live Search and later Live Search. Bing provides a variety of search services, including web, video, image and map search products.</item>
+        <item>Microsoft Dynamics CRM is a customer relationship management software package developed by Microsoft. The product focuses mainly on Sales, Marketing, and Service (help desk) sectors, but Microsoft has been marketing Dynamics CRM as an XRM platform and has been encouraging partners to use its proprietary (.NET based) framework to customize it. It is part of the Microsoft Dynamics family of business applications.</item>
+        <item>Microsoft System Center, a set of server products, aims specifically at helping corporate system administrators manage a network of Windows Server and client desktop systems.</item>
+        <item>Skype (/ˈskaɪp/) is an instant messaging app that provides online text message and video chat services. Users may transmit both text and video messages and may exchange digital documents such as images, text, and video. Skype allows video conference calls.</item>
+        <item>Microsoft Azure (formerly Windows Azure) /ˈæʒər/ is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through a global network of Microsoft-managed data centers. It provides software as a service (SAAS), platform as a service and infrastructure as a service and supports many different programming languages, tools and frameworks, including both Microsoft-specific and third-party software and systems.</item>
+
+    </string-array>
+
+    <string-array name="Hyperlinks">
+
+        <item>https://www.microsoft.com/en-in/</item>
+        <item>https://www.office.com/</item>
+        <item>http://www.msexchange.org/</item>
+        <item>https://products.office.com/en-IN/sharepoint/collaboration?ms.officeurl=sharepoint</item>
+        <item>https://www.microsoft.com/en-us/sql-server/default.aspx</item>
+        <item>https://www.microsoft.com/en-in/cloud-platform/windows-server</item>
+        <item>https://www.visualstudio.com/</item>
+        <item>http://www.xbox.com/en-IN/</item>
+        <item>https://www.bing.com/</item>
+        <item>https://www.microsoft.com/en-us/dynamics365/home</item>
+        <item>https://www.google.co.in/?gfe_rd=cr&amp;ei=Fyp0WZnjKKzy8Afoxaf4Aw#q=my+system+center</item>
+        <item>https://www.skype.com/en/</item>
+        <item>https://azure.microsoft.com/en-gb/</item>
+
+
+    </string-array>
+
+    <string name="Sample1">Hello.. my name is maheshwar</string>
+    <string name="WebLinks">Web Links</string>
+    <string name="Back">BAck</string>
+    <string name="Welcome">WELCOME</string>
+    <string name="Clicktogo">Click to go ---></string>
+</resources>
